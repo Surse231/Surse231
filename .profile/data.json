@@ -1,0 +1,325 @@
+{
+ "key": "68b19d1",
+ "stars": 1,
+ "contributions": 23,
+ "repos": 11,
+ "followers": 0,
+ "languages": [
+  [
+   "C",
+   3432082
+  ],
+  [
+   "JavaScript",
+   1643163
+  ],
+  [
+   "CSS",
+   472984
+  ],
+  [
+   "HTML",
+   446462
+  ],
+  [
+   "C++",
+   331435
+  ],
+  [
+   "Rust",
+   290489
+  ],
+  [
+   "Python",
+   50089
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 31,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 1,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 2,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 3,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 16,
+    "day": 14,
+    "today": true
+   }
+  ]
+ ],
+ "streak": {
+  "current": 3,
+  "longest": 3
+ },
+ "pins": [
+  {
+   "name": "jeem",
+   "url": "https://github.com/Surse231/jeem",
+   "text": "Free music player for Windows: YouTube Music, YouTube and SoundCloud in one app",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": [
+    "music-player",
+    "rust",
+    "soundcloud",
+    "tauri",
+    "windows",
+    "youtube-music"
+   ]
+  },
+  {
+   "name": "My_Project",
+   "url": "https://github.com/Surse231/My_Project",
+   "text": "в этом проекте я использовал класс, все что знаю о классе, использовал регулярные выражения.Получилось довольно не плохо.",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "Calculate",
+   "url": "https://github.com/Surse231/Calculate",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "Class",
+   "url": "https://github.com/Surse231/Class",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "Mini_game-player-vs-goblin-",
+   "url": "https://github.com/Surse231/Mini_game-player-vs-goblin-",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "SDLtest",
+   "url": "https://github.com/Surse231/SDLtest",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "jeem",
+   "url": "https://github.com/Surse231/jeem",
+   "text": "Free music player for Windows: YouTube Music, YouTube and SoundCloud in one app",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": [
+    "music-player",
+    "rust",
+    "soundcloud",
+    "tauri",
+    "windows",
+    "youtube-music"
+   ]
+  },
+  {
+   "name": "Surse231",
+   "url": "https://github.com/Surse231/Surse231",
+   "text": "My GitHub profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "microblog",
+   "url": "https://github.com/Surse231/microblog",
+   "text": "Corporate microblog backend (FastAPI, PostgreSQL, Docker Compose)",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "recipes-api",
+   "url": "https://github.com/Surse231/recipes-api",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "My_Project",
+   "url": "https://github.com/Surse231/My_Project",
+   "text": "в этом проекте я использовал класс, все что знаю о классе, использовал регулярные выражения.Получилось довольно не плохо.",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "Class",
+   "url": "https://github.com/Surse231/Class",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "Silent-Travel",
+   "url": "https://github.com/Surse231/Silent-Travel",
+   "text": "Game\"Silent Travel\",develop Unity with C#",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Mini_game-player-vs-goblin-",
+   "url": "https://github.com/Surse231/Mini_game-player-vs-goblin-",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "Bank_system",
+   "url": "https://github.com/Surse231/Bank_system",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "Calculate",
+   "url": "https://github.com/Surse231/Calculate",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "SDLtest",
+   "url": "https://github.com/Surse231/SDLtest",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  }
+ ]
+}
